@@ -1,0 +1,3 @@
+terminate sound
+release sprites
+release dd
